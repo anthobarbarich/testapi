@@ -1,0 +1,22 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthobarbarich/testapi.git"
+  },
+  "author": "anthobarbarich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthobarbarich/testapi/issues"
+  },
+  "homepage": "https://github.com/anthobarbarich/testapi#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
